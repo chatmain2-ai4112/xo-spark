@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xo-spark.vercel.app/sitemap.xml

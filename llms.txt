@@ -1,0 +1,23 @@
+# XO Spark
+
+> Free, fast, responsive Tic-Tac-Toe (X and O) game for laptop and mobile, with smart computer opponent and a daily Thirukkural verse.
+
+## Pages
+
+- [XO Spark — Play Tic-Tac-Toe](https://xo-spark.vercel.app/): The main game with 2-Player and vs Computer modes, neon themes, and a random Thirukkural after every round.
+
+## Features
+
+- Local 2-Player and vs Computer modes (Easy, Medium, Hard).
+- Random starting player each round.
+- Sound effects with on/off toggle.
+- Move counter and best-win streak tracking.
+- Sixteen themes including Arcade Rush, Christmas, Diwali, Holi, Navratri, Pongal, and Halloween.
+- Responsive layout for laptop, tablet, and mobile.
+- Thirukkural verses from Thiruvalluvar, with Tamil original and English translation by Rev. G. U. Pope (public domain).
+
+## Notes
+
+- No login or sign-up required.
+- No tracking or cookies.
+- Published as a static site on Vercel.
